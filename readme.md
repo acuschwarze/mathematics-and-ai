@@ -1,5 +1,8 @@
 # Math 76.01: Mathematics and AI
 
+
+<div id="accordion-holder" ><iframe src="https://github.com/acuschwarze/mathematics-and-ai/blob/main/web/course.html" width="98%"height="390"></iframe></div>
+
 <a name="course"></a>
 <h2>
 Course Description
