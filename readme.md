@@ -1,5 +1,6 @@
-#Mathematics and AI
-##Math 76.01: Topics in Applied Mathematics
+# Mathematics and AI
+
+## Math 76.01: Topics in Applied Mathematics
 
 <div class="container">
 <div class="panel-group" id="accordion">
