@@ -1,6 +1,6 @@
 # Mathematics and AI
 
-## Math 76.01: Topics in Applied Mathematics
+Repository for the course MATH 76.01: Topics in Applied Mathematics at Dartmouth College in the 2024 Summer Term
 
 <div class="container">
 <div class="panel-group" id="accordion">
