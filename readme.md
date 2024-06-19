@@ -1,3 +1,6 @@
+#Mathematics and AI
+##Math 76.01: Topics in Applied Mathematics
+
 <div class="container">
 <div class="panel-group" id="accordion">
 <div class="panel panel-default" width="20px">
@@ -40,33 +43,34 @@
 <table>
 <tr>
 <td padding=2px><img src="https://math.dartmouth.edu/~m76x24/dartinvite.jpg" width=206px alt="Invitation to the Dartmouth Workshop in 1956; source: https://raysolomonoff.com/dartmouth/"></td>
-<td>                <p>
-    Mathematics and AI offers an exploration of the intersection between mathematics and 
-    artificial intelligence (AI). Covering state-of-the-art machine learning techniques and 
-    their mathematical foundations, this course aims to provide students with both a broad theoretical 
-    understanding and practical skills. The syllabus starts with a brief review of the history of AI,
-    and current limits and issues. This is followed by an introduction to statistical learning in a supervised setting and 
-    a deeper dive on neural networks and their applications with some references to current
-    mathematical research. The syllabus continues with an overview of unsupervised learning methods and 
-    their applications in feature selection. It concludes with student's presentations of their final projects.
+<td valign="top"><p>
+Mathematics and AI offers an exploration of the intersection between mathematics and 
+artificial intelligence (AI). Covering state-of-the-art machine learning techniques and 
+their mathematical foundations, this course aims to provide students with both a broad theoretical 
+understanding and practical skills. The syllabus starts with a brief review of the history of AI,
+and current limits and issues. This is followed by an introduction to statistical learning in a supervised setting and 
+a deeper dive on neural networks and their applications with some references to current
+mathematical research. The syllabus continues with an overview of unsupervised learning methods and 
+their applications in feature selection. It concludes with student's presentations of their final projects. 
 </p>
-
-<p>
-    <b>Prerequisite courses and skills</b>: Math  13, Math 22 or Math 24, and Math 23, or advanced placement/ instructor override.
-    Familiarity with at least one programming language. (Python preferred.)
-    Students who request an instructor override should have encountered the concepts in the <a href="#concepts">Prerequisite concepts</a> checklist in their previous coursework or self study.                
-</p>
-
-<p>
-    <a name="concepts"></a><b>Prerequisite concepts:</b>
-    derivative of a function, chain rule, smooth function, optimization, 
-    Taylor expansion, differential equation, fixed point,
-    vector, matrix, lines, curves, subspaces, eigenvector, eigenvalue
-    multivariate function, partial derivative, spherical coordinates, 
-    probability distribution, conditional probability, joint probability
-</p></td>
+</td>
 </tr>
 </table>
+
+<p>
+<b>Prerequisite courses and skills</b>: Math  13, Math 22 or Math 24, and Math 23, or advanced placement/ instructor override.
+Familiarity with at least one programming language. (Python preferred.)
+Students who request an instructor override should have encountered the concepts in the <a href="#concepts">Prerequisite concepts</a> checklist in their previous coursework or self study.                
+</p>
+
+<p>
+<a name="concepts"></a><b>Prerequisite concepts:</b>
+derivative of a function, chain rule, smooth function, optimization, 
+Taylor expansion, differential equation, fixed point,
+vector, matrix, lines, curves, subspaces, eigenvector, eigenvalue
+multivariate function, partial derivative, spherical coordinates, 
+probability distribution, conditional probability, joint probability
+</p>
 
 
 </div>
@@ -114,23 +118,23 @@
 <div class="container">
 <ul>
 <li>
-    <i>Introduction to Statistical Learning with Applications in Python</i> by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor<br>
-    available on the <a href="https://www.statlearning.com/">book's website</a>
+<i>Introduction to Statistical Learning with Applications in Python</i> by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor<br>
+available on the <a href="https://www.statlearning.com/">book's website</a>
 </li>
 <li>
-    <i>Data-Driven Science and Engineering</i> by Steven Brunton and Nathan Kutz<br>
-    videos and PDF (<a href="http://databookuw.com/databook.pdf">download</a>) available on the <a href="https://www.databookuw.com/">book's website</a>
+<i>Data-Driven Science and Engineering</i> by Steven Brunton and Nathan Kutz<br>
+videos and PDF (<a href="http://databookuw.com/databook.pdf">download</a>) available on the <a href="https://www.databookuw.com/">book's website</a>
 </li>
 <li>
 <i>Geometry of Deep Learning</i> by Jong Chul Ye<br>
-    available via Dartmouth Libraries (<a href="https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991034027246105706">link</a>)
+available via Dartmouth Libraries (<a href="https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991034027246105706">link</a>)
 </li>
 <li>
-    <i>Artificial Intelligence With an Introduction to Machine Learning</i> by Richard Neapolitan and Xia Jiang<br>
-    available via Dartmouth Libraries (<a href="https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991033334873005706">link</a>)
+<i>Artificial Intelligence With an Introduction to Machine Learning</i> by Richard Neapolitan and Xia Jiang<br>
+available via Dartmouth Libraries (<a href="https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991033334873005706">link</a>)
 </li>
 <li>
-    <i>Limits of AI - Theoretical, Practical, Ethical</i> by Klaus Mainzer and Reinhard Kahle<br>
+<i>Limits of AI - Theoretical, Practical, Ethical</i> by Klaus Mainzer and Reinhard Kahle<br>
 available via Dartmouth Libraries (<a href="https://search.library.dartmouth.edu/permalink/01DCL_INST/134hn0f/cdi_proquest_ebookcentral_EBC31266916">link</a>)
 </li>
 </ul>
@@ -139,8 +143,8 @@ available via Dartmouth Libraries (<a href="https://search.library.dartmouth.edu
 <h4>Other materials</h4>
 <div class="container">
 <ul>
-    <li>J. Veisdal: "The Birthplace of AI" (2024) (<a href="https://www.privatdozent.co/p/the-birth-of-ai-1956">substack post</a>)</li>
-    <li>A. Turing: "Computing Machinery and Intelligence" (1950) (<a href="https://www.csee.umbc.edu/courses/471/papers/turing.pdf">full paper</a>)</li>
+<li>J. Veisdal: "The Birthplace of AI" (2024) (<a href="https://www.privatdozent.co/p/the-birth-of-ai-1956">substack post</a>)</li>
+<li>A. Turing: "Computing Machinery and Intelligence" (1950) (<a href="https://www.csee.umbc.edu/courses/471/papers/turing.pdf">full paper</a>)</li>
 </ul>
 </div>
 </div>
