@@ -40,11 +40,9 @@
 </div>
 <div id="descriptiontab" class="panel-collapse collapse in">
 <div class="panel-body">
-<table>
-<tr>
-<td padding=2px><img src="https://math.dartmouth.edu/~m76x24/dartinvite.jpg" width=206px alt="Invitation to the Dartmouth Workshop in 1956; source: https://raysolomonoff.com/dartmouth/"></td>
-<td valign="top"><p>
-Mathematics and AI offers an exploration of the intersection between mathematics and 
+<img src="https://math.dartmouth.edu/~m76x24/dartinvite.jpg" width=206px alt="Invitation to the Dartmouth Workshop in 1956; source: https://raysolomonoff.com/dartmouth/"></td>
+<p>
+Mathematics and AI offers an exploration of the intersection between mathematics and
 artificial intelligence (AI). Covering state-of-the-art machine learning techniques and 
 their mathematical foundations, this course aims to provide students with both a broad theoretical 
 understanding and practical skills. The syllabus starts with a brief review of the history of AI,
@@ -53,9 +51,6 @@ a deeper dive on neural networks and their applications with some references to 
 mathematical research. The syllabus continues with an overview of unsupervised learning methods and 
 their applications in feature selection. It concludes with student's presentations of their final projects. 
 </p>
-</td>
-</tr>
-</table>
 
 <p>
 <b>Prerequisite courses and skills</b>: Math  13, Math 22 or Math 24, and Math 23, or advanced placement/ instructor override.
