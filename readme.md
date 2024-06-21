@@ -20,7 +20,7 @@ their applications in feature selection. It concludes with student's presentatio
 <p>
 <b>Prerequisite courses and skills</b>: Math  13, Math 22 or Math 24, and Math 23, or advanced placement/ instructor override.
 Familiarity with at least one programming language. (Python preferred.)
-Students who request an instructor override should have encountered the concepts in the <a href="#concepts">Prerequisite concepts</a> checklist in their previous coursework or self study.                
+Students who request an instructor override should have encountered the concepts in the prerequisite concepts checklist in their previous coursework or self study.                
 </p>
 
 <p>
@@ -32,3 +32,7 @@ multivariate function, partial derivative, spherical coordinates,
 probability distribution, conditional probability, joint probability
 </p>
 
+## Links
+<b>Github repository:</b> <a href="https://github.com/acuschwarze/mathematics-and-ai/">https://github.com/acuschwarze/mathematics-and-ai/</a><br>
+<b>Canvas:</b> <a href="https://canvas.dartmouth.edu/courses/66608/">https://canvas.dartmouth.edu/courses/66608/</a><br>
+<b>Webpage:</b> <a href="https://math.dartmouth.edu/~m76x24/">https://math.dartmouth.edu/~m76x24/</a>  
