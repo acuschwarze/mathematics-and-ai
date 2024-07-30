@@ -1,5 +1,3 @@
----
-
 **Title:** Understanding Hallucinations in Diffusion Models through Mode Interpolation
 
 **Authors:** Sumukh K Aithal, Pratyush Maini, Zachary C. Lipton, J. Zico Kolter
