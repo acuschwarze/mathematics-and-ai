@@ -1,4 +1,4 @@
-**Title:** Understanding Hallucinations in Diffusion Models through Mode Interpolation
+# Understanding Hallucinations in Diffusion Models through Mode Interpolation
 
 **Authors:** Sumukh K Aithal, Pratyush Maini, Zachary C. Lipton, J. Zico Kolter
 
@@ -47,7 +47,7 @@ This paper investigates a phenomenon called "hallucinations" in image generation
 
 ---
 
-**Title:** Interpretable Prediction Rules for Congestion Risk in Intensive Care Units
+# Interpretable Prediction Rules for Congestion Risk in Intensive Care Units
 
 **Authors:** Fernanda Bravo, Cynthia Rudin, Yaron Shaposhnik, Yuting Yuan
 
@@ -76,7 +76,7 @@ This paper addresses the challenge of predicting congestion in intensive care un
 
 ---
 
-**Title:** Learning Advanced Mathematical Computations from Examples
+# Learning Advanced Mathematical Computations from Examples
 
 **Authors:** François Charton, Amaury Hayat, Guillaume Lample
 
@@ -125,7 +125,7 @@ This paper explores the ability of deep learning models, specifically transforme
 
 ---
 
-**Title:** Selective Inference for k-means Clustering
+# Selective Inference for k-means Clustering
 
 **Authors:** Yiqun T. Chen, Daniela M. Witten
 
@@ -163,7 +163,7 @@ This paper addresses the problem of testing for differences in means between clu
 
 ---
 
-**Title:** Graph Kernel Neural Networks
+# Graph Kernel Neural Networks
 
 **Authors:** Luca Cosmo, Giorgia Minello, Alessandro Bicciato, Michael M. Bronstein, Emanuele Rodolà, Luca Rossi, Andrea Torsello
 
@@ -212,7 +212,7 @@ The proposed GKNN architecture successfully integrates graph kernels into the ne
 
 ---
 
-**Title:** The Devil is in the Detail: Simple Tricks Improve Systematic Generalization of Transformers
+# The Devil is in the Detail: Simple Tricks Improve Systematic Generalization of Transformers
 
 **Authors:** Róbert Csordás, Kazuki Irie, Jürgen Schmidhuber
 
@@ -260,7 +260,7 @@ This paper explores various simple modifications to Transformer models that sign
 
 ---
 
-**Title:** Stable Fixed Points of Combinatorial Threshold-Linear Networks
+# Stable Fixed Points of Combinatorial Threshold-Linear Networks
 
 **Authors:** Carina Curto, Jesse Geneson, Katherine Morrison
 
@@ -299,7 +299,7 @@ This paper explores combinatorial threshold-linear networks (CTLNs), a type of n
 
 ---
 
-**Title:** SiamQuality: A ConvNet-Based Foundation Model for Imperfect Physiological Signals
+# SiamQuality: A ConvNet-Based Foundation Model for Imperfect Physiological Signals
 
 **Authors:** Cheng Ding, Zhicheng Guo, Zhaoliang Chen, Randall J Lee, Cynthia Rudin, Xiao Hu
 
@@ -343,7 +343,7 @@ The paper introduces SiamQuality, a new model for analyzing physiological signal
 
 ---
 
-**Title:** Model Collapse as a Change of Scaling Laws
+# Model Collapse as a Change of Scaling Laws
 
 **Authors:** Elvis Dohmatob, Yunzhen Feng, Pu Yang, Francois Charton, Julia Kempe
 
@@ -394,7 +394,7 @@ This paper examines the phenomenon of "model collapse" in large language models 
 
 ---
 
-**Title:** Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning
+# Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning
 
 **Authors:** Yijun Dong, Hoang Phan, Xiang Pan, Qi Lei
 
@@ -438,7 +438,7 @@ This paper presents a new method called Sketchy Moment Matching (SkMM) to improv
 
 ---
 
-**Title:** AsymMirai: Interpretable Mammography-based Deep Learning Model for 1–5-Year Breast Cancer Risk Prediction
+# AsymMirai: Interpretable Mammography-based Deep Learning Model for 1–5-Year Breast Cancer Risk Prediction
 
 **Authors:** Jon Donnelly, Luke Moffett, Alina Jade Barnett, Hari Trivedi, Fides Schwartz, Joseph Lo, Cynthia Rudin
 
@@ -483,7 +483,7 @@ This study introduces AsymMirai, a simplified and interpretable deep learning mo
 
 ---
 
-**Title:** Mathematical Capabilities of ChatGPT
+# Mathematical Capabilities of ChatGPT
 
 **Authors:** Simon Frieder, Luca Pinchetti, Alexis Chevalier, Ryan-Rhys Griffiths, Tommaso Salvatori, Thomas Lukasiewicz, Philipp Petersen, Julius Berner
 
@@ -533,7 +533,7 @@ This paper investigates the mathematical capabilities of two versions of ChatGPT
 
 ---
 
-**Title:** Selective Inference for Hierarchical Clustering
+# Selective Inference for Hierarchical Clustering
 
 **Authors:** Lucy L. Gao, Jacob Bien, Daniela Witten
 
@@ -576,7 +576,7 @@ This paper addresses the issue of performing valid statistical tests on clusters
 
 ---
 
-**Title:** Manifold Learning in Wasserstein Space
+# Manifold Learning in Wasserstein Space
 
 **Authors:** Keaton Hamm, Caroline Moosmüller, Bernhard Schmitzer, Matthew Thorpe
 
@@ -618,7 +618,7 @@ This paper introduces a theoretical foundation for applying manifold learning al
 
 ---
 
-**Title:** Optimal Recurrent Network Topologies for Dynamical Systems Reconstruction
+# Optimal Recurrent Network Topologies for Dynamical Systems Reconstruction
 
 **Authors:** Christoph Jürgen Hemmer, Manuel Brenner, Florian Hess, Daniel Durstewitz
 
@@ -660,7 +660,7 @@ This paper explores how to create efficient and effective recurrent neural netwo
 
 ---
 
-**Title:** Online Social Media Auditing
+# Online Social Media Auditing
 
 **Authors:** Wasim Huleihel, Yehonathan Refael
 
@@ -705,7 +705,7 @@ This paper proposes a mathematical framework to regulate the impact of social me
 
 ---
 
-**Title:** Approximate Data Deletion from Machine Learning Models
+# Approximate Data Deletion from Machine Learning Models
 
 **Authors:** Zachary Izzo, Mary Anne Smart, Kamalika Chaudhuri, James Zou
 
@@ -752,7 +752,7 @@ The proposed PRU method offers a significant improvement over existing data dele
 
 ---
 
-**Title:** How to Learn When Data Gradually Reacts to Your Model
+# How to Learn When Data Gradually Reacts to Your Model
 
 **Authors:** Zachary Izzo, James Zou, Lexing Ying
 
@@ -799,7 +799,7 @@ Stateful PerfGD offers a robust solution for optimizing machine learning models 
 
 ---
 
-**Title:** A Theoretical Study of Dataset Distillation
+# A Theoretical Study of Dataset Distillation
 
 **Authors:** Zachary Izzo, James Zou
 
@@ -843,7 +843,7 @@ This paper explores the concept of dataset distillation (DD), which aims to crea
 
 ---
 
-**Title:** An Information-Theoretic Analysis of In-Context Learning
+# An Information-Theoretic Analysis of In-Context Learning
 
 **Authors:** Hong Jun Jeon, Jason D. Lee, Qi Lei, Benjamin Van Roy
 
@@ -889,7 +889,7 @@ The paper provides a unified theoretical framework for understanding in-context 
 
 ---
 
-**Title:** Universal Sharpness Dynamics in Neural Network Training: Fixed Point Analysis, Edge of Stability, and Route to Chaos
+# Universal Sharpness Dynamics in Neural Network Training: Fixed Point Analysis, Edge of Stability, and Route to Chaos
 
 **Authors:** Dayal Singh Kalra, Tianyu He, Maissam Barkeshli
 
@@ -937,7 +937,7 @@ Understanding sharpness dynamics provides insights into the training behavior of
 
 ---
 
-**Title:** Deep Learning for Symbolic Mathematics
+# Deep Learning for Symbolic Mathematics
 
 **Authors:** Guillaume Lample, François Charton
 
@@ -988,7 +988,7 @@ This paper explores the application of deep learning models, specifically sequen
 
 ---
 
-**Title:** Randomized Pruning Mask Generation and Selection
+# Randomized Pruning Mask Generation and Selection
 
 **Authors:** Jianwei Li, Weizhi Gao, Qi Lei, Dongkuan Xu
 
@@ -1035,7 +1035,7 @@ The randomized pruning approach offers a significant improvement over traditiona
 
 ---
 
-**Title:** Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models
+# Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models
 
 **Authors:** Jianwei Li, Qi Lei, Wei Cheng, Dongkuan Xu
 
@@ -1085,7 +1085,7 @@ This paper presents a new method for pruning language models to make them smalle
 
 ---
 
-**Title:** Attention Meets Post-hoc Interpretability: A Mathematical Perspective
+# Attention Meets Post-hoc Interpretability: A Mathematical Perspective
 
 **Authors:** Gianluigi Lopardo, Frederic Precioso, Damien Garreau
 
@@ -1131,7 +1131,7 @@ This paper investigates the interpretability of attention mechanisms in neural n
 
 ---
 
-**Title:** Manifold Learning: What, How, and Why
+# Manifold Learning: What, How, and Why
 
 **Authors:** Marina Meilă, Hanyu Zhang
 
@@ -1186,7 +1186,7 @@ This paper reviews the field of manifold learning, a set of techniques used for 
 
 ---
 
-**Title:** Efficient Shallow Learning as an Alternative to Deep Learning
+# Efficient Shallow Learning as an Alternative to Deep Learning
 
 **Authors:** Yuval Meir, Ofek Tevet, Yarden Tzach, Shiri Hodassman, Ronit D. Gross, Ido Kanter
 
@@ -1236,7 +1236,7 @@ This summary provides a clear and accessible overview of the paper's objectives,
 
 ---
 
-**Title:** Diversity of Emergent Dynamics in Competitive Threshold-Linear Networks
+# Diversity of Emergent Dynamics in Competitive Threshold-Linear Networks
 
 **Authors:** Katherine Morrison, Anda Degeratu, Vladimir Itskov, Carina Curto
 
@@ -1287,7 +1287,7 @@ The study shows that CTLNs, despite their simple linear structure with a thresho
 
 ---
 
-**Title:** Revisiting Inference After Prediction
+# Revisiting Inference After Prediction
 
 **Authors:** Keshav Motwani, Daniela Witten
 
@@ -1332,7 +1332,7 @@ The paper highlights the importance of using appropriate methods for prediction-
 
 ---
 
-**Title:** Tree-Values: Selective Inference for Regression Trees
+# Tree-Values: Selective Inference for Regression Trees
 
 **Authors:** Anna C. Neufeld, Lucy L. Gao, Daniela M. Witten
 
@@ -1379,7 +1379,7 @@ The selective inference framework developed in this paper provides a robust meth
 
 ---
 
-**Title:** Safe and Interpretable Estimation of Optimal Treatment Regimes
+# Safe and Interpretable Estimation of Optimal Treatment Regimes
 
 **Authors:** Harsh Parikh, Quinn Lanners, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, Alexander Volfovsky
 
@@ -1430,7 +1430,7 @@ This paper introduces a new method for optimizing treatment plans for patients i
 
 ---
 
-**Title:** AI and the Problem of Knowledge Collapse
+# AI and the Problem of Knowledge Collapse
 
 **Author:** Andrew J. Peterson
 
@@ -1480,7 +1480,7 @@ This paper explores the concept of "knowledge collapse" caused by the widespread
 
 ---
 
-**Title:** Amazing Things Come From Having Many Good Models
+# Amazing Things Come From Having Many Good Models
 
 **Authors:** Cynthia Rudin, Chudi Zhong, Lesia Semenova, Margo Seltzer, Ronald Parr, Jiachang Liu, Srikar Katta, Jon Donnelly, Harry Chen, Zachery Boner
 
@@ -1527,7 +1527,7 @@ This paper explores the Rashomon Effect in machine learning, where many differen
 
 ---
 
-**Title:** A Path to Simpler Models Starts With Noise
+# A Path to Simpler Models Starts With Noise
 
 **Authors:** Lesia Semenova, Harry Chen, Ronald Parr, Cynthia Rudin
 
@@ -1575,7 +1575,7 @@ This paper explores why simpler machine learning models often perform as well as
 
 ---
 
-**Title:** Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images
+# Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images
 
 **Authors:** Krishnakant Singh, Thanush Navaratnam, Jannik Holmer, Simone Schaub-Meyer, Stefan Roth
 
@@ -1621,7 +1621,7 @@ This paper evaluates the effectiveness and robustness of machine learning models
 
 ---
 
-**Title:** On the Impact of Sample Size in Reconstructing Noisy Graph Signals: A Theoretical Characterisation
+# On the Impact of Sample Size in Reconstructing Noisy Graph Signals: A Theoretical Characterisation
 
 **Authors:** Baskaran Sripathmanathan, Xiaowen Dong, Michael Bronstein
 
@@ -1669,7 +1669,7 @@ The paper provides a comprehensive theoretical characterization of how sample si
 
 ---
 
-**Title:** Sparse and Faithful Explanations Without Sparse Models
+# Sparse and Faithful Explanations Without Sparse Models
 
 **Authors:** Yiyang Sun, Zhi Chen, Vittorio Orlandi, Tong Wang, Cynthia Rudin
 
@@ -1719,7 +1719,7 @@ This paper introduces the Sparse Explanation Value (SEV) as a new measure of int
 
 ---
 
-**Title:** MathScale: Scaling Instruction Tuning for Mathematical Reasoning
+# MathScale: Scaling Instruction Tuning for Mathematical Reasoning
 
 **Authors:** Zhengyang Tang, Xingxing Zhang, Benyou Wang, Furu Wei
 
@@ -1755,7 +1755,7 @@ This work is important because it helps make AI models better at solving math pr
 
 ---
 
-**Title:** Demystifying Multilayer Transformers via Joint Dynamics of MLP and Attention (JoMA)
+# Demystifying Multilayer Transformers via Joint Dynamics of MLP and Attention (JoMA)
 
 **Authors:** Yuandong Tian, Yiping Wang, Zhenyu Zhang, Beidi Chen, Simon Du
 
@@ -1802,7 +1802,7 @@ The JoMA framework offers a new perspective on the training dynamics of multilay
 
 ---
 
-**Title:** Solving Olympiad Geometry Without Human Demonstrations
+# Solving Olympiad Geometry Without Human Demonstrations
 
 **Authors:** Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He, et al.
 
@@ -1839,7 +1839,7 @@ This paper introduces AlphaGeometry, an AI system that solves advanced geometry 
 
 ---
 
-**Title:** U-SPDNet: An SPD Manifold Learning-Based Neural Network for Visual Classification
+# U-SPDNet: An SPD Manifold Learning-Based Neural Network for Visual Classification
 
 **Authors:** Rui Wang, Xiao-Jun Wu, Tianyang Xu, Cong Hu, Josef Kittler
 
@@ -1888,7 +1888,7 @@ U-SPDNet demonstrates that a carefully designed neural network architecture, whi
 
 ---
 
-**Title:** Reconstructing Training Data from Model Gradient, Provably
+# Reconstructing Training Data from Model Gradient, Provably
 
 **Authors:** Zihan Wang, Jason D. Lee, Qi Lei
 
@@ -1935,7 +1935,7 @@ This paper addresses the privacy concerns in federated learning by demonstrating
 
 ---
 
-**Title:** Improved Active Multi-Task Representation Learning via Lasso
+# Improved Active Multi-Task Representation Learning via Lasso
 
 **Authors:** Yiping Wang, Yifang Chen, Kevin Jamieson, Simon S. Du
 
@@ -1986,7 +1986,7 @@ The L1-regularized relevance-based strategy for A-MTRL provides a significant im
 
 ---
 
-**Title:** Stabilizing Machine Learning Prediction of Dynamics: Novel Noise-Inspired Regularization Tested with Reservoir Computing
+# Stabilizing Machine Learning Prediction of Dynamics: Novel Noise-Inspired Regularization Tested with Reservoir Computing
 
 **Authors:** Alexander Wikner, Joseph Harvey, Michelle Girvan, Brian R. Hunt, Andrew Pomerance, Thomas Antonsen, Edward Ott
 
@@ -2034,7 +2034,7 @@ This paper addresses the challenge of stabilizing machine learning (ML) models u
 
 ---
 
-**Title:** Over-Parameterization Exponentially Slows Down Gradient Descent for Learning a Single Neuron
+# Over-Parameterization Exponentially Slows Down Gradient Descent for Learning a Single Neuron
 
 **Authors:** Weihang Xu, Simon S. Du
 
@@ -2082,7 +2082,7 @@ This paper explores the impact of over-parameterization on the convergence rate 
 
 ---
 
-**Title:** Infinite-Dimensional Feature Interaction
+# Infinite-Dimensional Feature Interaction
 
 **Authors:** Chenhui Xu, Fuxun Yu, Maoliang Li, Zihao Zheng, Zirui Xu, Jinjun Xiong, Xiang Chen
 
@@ -2135,7 +2135,7 @@ This paper presents a novel approach to neural network design that focuses on ex
 
 ---
 
-**Title:** How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks
+# How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks
 
 **Authors:** Keyulu Xu, Mozhi Zhang, Jingling Li, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka
 
@@ -2177,7 +2177,7 @@ This paper explores the extrapolation abilities of neural networks, specifically
 
 ---
 
-**Title:** Controlling Costs: Feature Selection on a Budget
+# Controlling Costs: Feature Selection on a Budget
 
 **Authors:** Guo Yu, Daniela Witten, Jacob Bien
 
@@ -2225,7 +2225,7 @@ This paper introduces a method for selecting features in predictive models while
 
 ---
 
-**Title:** In Defense of the Indefensible: A Very Naïve Approach to High-Dimensional Inference
+# In Defense of the Indefensible: A Very Naïve Approach to High-Dimensional Inference
 
 **Authors:** Sen Zhao, Daniela Witten, Ali Shojaie
 
