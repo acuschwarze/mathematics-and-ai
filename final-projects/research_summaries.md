@@ -1,3 +1,5 @@
+---
+
 **Title:** Understanding Hallucinations in Diffusion Models through Mode Interpolation
 
 **Authors:** Sumukh K Aithal, Pratyush Maini, Zachary C. Lipton, J. Zico Kolter
@@ -45,6 +47,8 @@ This paper investigates a phenomenon called "hallucinations" in image generation
 
 
 
+---
+
 **Title:** Interpretable Prediction Rules for Congestion Risk in Intensive Care Units
 
 **Authors:** Fernanda Bravo, Cynthia Rudin, Yaron Shaposhnik, Yuting Yuan
@@ -71,6 +75,8 @@ This paper addresses the challenge of predicting congestion in intensive care un
    - The model-based approach is compared with purely data-driven approaches, showing that incorporating queueing models leads to more accurate and robust predictions.
    - The approach is also robust to small misspecifications of the queueing model, highlighting its practical applicability.
 
+
+---
 
 **Title:** Learning Advanced Mathematical Computations from Examples
 
@@ -119,6 +125,8 @@ This paper explores the ability of deep learning models, specifically transforme
 
 
 
+---
+
 **Title:** Selective Inference for k-means Clustering
 
 **Authors:** Yiqun T. Chen, Daniela M. Witten
@@ -154,6 +162,8 @@ This paper addresses the problem of testing for differences in means between clu
 5. **Comparison with Other Methods:**
    - The proposed method is compared to previous approaches, showing improved performance in controlling Type I error rates.
 
+
+---
 
 **Title:** Graph Kernel Neural Networks
 
@@ -202,6 +212,8 @@ The proposed GKNN architecture successfully integrates graph kernels into the ne
 - Neural architecture
 
 
+---
+
 **Title:** The Devil is in the Detail: Simple Tricks Improve Systematic Generalization of Transformers
 
 **Authors:** Róbert Csordás, Kazuki Irie, Jürgen Schmidhuber
@@ -248,6 +260,8 @@ This paper explores various simple modifications to Transformer models that sign
 
 
 
+---
+
 **Title:** Stable Fixed Points of Combinatorial Threshold-Linear Networks
 
 **Authors:** Carina Curto, Jesse Geneson, Katherine Morrison
@@ -284,6 +298,8 @@ This paper explores combinatorial threshold-linear networks (CTLNs), a type of n
 - Network dynamics
 - Theoretical neuroscience
 
+
+---
 
 **Title:** SiamQuality: A ConvNet-Based Foundation Model for Imperfect Physiological Signals
 
@@ -326,6 +342,8 @@ The paper introduces SiamQuality, a new model for analyzing physiological signal
 - Healthcare AI
 - Noise and artifacts in data
 
+
+---
 
 **Title:** Model Collapse as a Change of Scaling Laws
 
@@ -376,6 +394,8 @@ This paper examines the phenomenon of "model collapse" in large language models 
 
 
 
+---
+
 **Title:** Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning
 
 **Authors:** Yijun Dong, Hoang Phan, Xiang Pan, Qi Lei
@@ -417,6 +437,8 @@ This paper presents a new method called Sketchy Moment Matching (SkMM) to improv
 - Computational efficiency
 - Model updating
 
+
+---
 
 **Title:** AsymMirai: Interpretable Mammography-based Deep Learning Model for 1–5-Year Breast Cancer Risk Prediction
 
@@ -460,6 +482,8 @@ This study introduces AsymMirai, a simplified and interpretable deep learning mo
 - Radiology AI
 - Predictive modeling
 
+
+---
 
 **Title:** Mathematical Capabilities of ChatGPT
 
@@ -509,6 +533,8 @@ This paper investigates the mathematical capabilities of two versions of ChatGPT
 
 
 
+---
+
 **Title:** Selective Inference for Hierarchical Clustering
 
 **Authors:** Lucy L. Gao, Jacob Bien, Daniela Witten
@@ -550,6 +576,8 @@ This paper addresses the issue of performing valid statistical tests on clusters
 
 
 
+---
+
 **Title:** Manifold Learning in Wasserstein Space
 
 **Authors:** Keaton Hamm, Caroline Moosmüller, Bernhard Schmitzer, Matthew Thorpe
@@ -590,6 +618,8 @@ This paper introduces a theoretical foundation for applying manifold learning al
 - High-dimensional data
 
 
+---
+
 **Title:** Optimal Recurrent Network Topologies for Dynamical Systems Reconstruction
 
 **Authors:** Christoph Jürgen Hemmer, Manuel Brenner, Florian Hess, Daniel Durstewitz
@@ -629,6 +659,8 @@ This paper explores how to create efficient and effective recurrent neural netwo
 - State space
 
 
+
+---
 
 **Title:** Online Social Media Auditing
 
@@ -672,6 +704,8 @@ This paper proposes a mathematical framework to regulate the impact of social me
 - Statistical auditing
 - Counterfactual regulation
 
+
+---
 
 **Title:** Approximate Data Deletion from Machine Learning Models
 
@@ -718,6 +752,8 @@ The proposed PRU method offers a significant improvement over existing data dele
 - Data privacy regulations
 
 
+---
+
 **Title:** How to Learn When Data Gradually Reacts to Your Model
 
 **Authors:** Zachary Izzo, James Zou, Lexing Ying
@@ -763,6 +799,8 @@ Stateful PerfGD offers a robust solution for optimizing machine learning models 
 
 
 
+---
+
 **Title:** A Theoretical Study of Dataset Distillation
 
 **Authors:** Zachary Izzo, James Zou
@@ -804,6 +842,8 @@ This paper explores the concept of dataset distillation (DD), which aims to crea
 - Synthetic datasets
 - Machine learning theory
 
+
+---
 
 **Title:** An Information-Theoretic Analysis of In-Context Learning
 
@@ -848,6 +888,8 @@ The paper provides a unified theoretical framework for understanding in-context 
 - Sequence learning
 - Machine learning theory
 
+
+---
 
 **Title:** Universal Sharpness Dynamics in Neural Network Training: Fixed Point Analysis, Edge of Stability, and Route to Chaos
 
@@ -894,6 +936,8 @@ Understanding sharpness dynamics provides insights into the training behavior of
 - Stability analysis
 - Machine learning optimization
 
+
+---
 
 **Title:** Deep Learning for Symbolic Mathematics
 
@@ -944,6 +988,8 @@ This paper explores the application of deep learning models, specifically sequen
 
 
 
+---
+
 **Title:** Randomized Pruning Mask Generation and Selection
 
 **Authors:** Jianwei Li, Weizhi Gao, Qi Lei, Dongkuan Xu
@@ -988,6 +1034,8 @@ The randomized pruning approach offers a significant improvement over traditiona
 - Model optimization
 - Early mask evaluation
 
+
+---
 
 **Title:** Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models
 
@@ -1037,6 +1085,8 @@ This paper presents a new method for pruning language models to make them smalle
 - BERT
 
 
+---
+
 **Title:** Attention Meets Post-hoc Interpretability: A Mathematical Perspective
 
 **Authors:** Gianluigi Lopardo, Frederic Precioso, Damien Garreau
@@ -1080,6 +1130,8 @@ This paper investigates the interpretability of attention mechanisms in neural n
 - LIME
 - Machine learning explainability
 
+
+---
 
 **Title:** Manifold Learning: What, How, and Why
 
@@ -1134,6 +1186,8 @@ This paper reviews the field of manifold learning, a set of techniques used for 
 
 
 
+---
+
 **Title:** Efficient Shallow Learning as an Alternative to Deep Learning
 
 **Authors:** Yuval Meir, Ofek Tevet, Yarden Tzach, Shiri Hodassman, Ronit D. Gross, Ido Kanter
@@ -1181,6 +1235,8 @@ The study suggests that shallow learning can be a viable alternative to deep lea
 This summary provides a clear and accessible overview of the paper's objectives, methods, and key findings, suitable for readers without a deep technical background.
 
 
+
+---
 
 **Title:** Diversity of Emergent Dynamics in Competitive Threshold-Linear Networks
 
@@ -1231,6 +1287,8 @@ The study shows that CTLNs, despite their simple linear structure with a thresho
 - Dynamic attractors
 
 
+---
+
 **Title:** Revisiting Inference After Prediction
 
 **Authors:** Keshav Motwani, Daniela Witten
@@ -1273,6 +1331,8 @@ The paper highlights the importance of using appropriate methods for prediction-
 - Naive approach
 - Valid inference
 
+
+---
 
 **Title:** Tree-Values: Selective Inference for Regression Trees
 
@@ -1318,6 +1378,8 @@ The selective inference framework developed in this paper provides a robust meth
 - Data-dependent inference
 - Conditional inference tree (CTree)
 
+
+---
 
 **Title:** Safe and Interpretable Estimation of Optimal Treatment Regimes
 
@@ -1368,6 +1430,8 @@ This paper introduces a new method for optimizing treatment plans for patients i
 - Interpretable models
 
 
+---
+
 **Title:** AI and the Problem of Knowledge Collapse
 
 **Author:** Andrew J. Peterson
@@ -1416,6 +1480,8 @@ This paper explores the concept of "knowledge collapse" caused by the widespread
 
 
 
+---
+
 **Title:** Amazing Things Come From Having Many Good Models
 
 **Authors:** Cynthia Rudin, Chudi Zhong, Lesia Semenova, Margo Seltzer, Ronald Parr, Jiachang Liu, Srikar Katta, Jon Donnelly, Harry Chen, Zachery Boner
@@ -1460,6 +1526,8 @@ This paper explores the Rashomon Effect in machine learning, where many differen
 - Interactive tools
 - High-stakes decisions
 
+
+---
 
 **Title:** A Path to Simpler Models Starts With Noise
 
@@ -1507,6 +1575,8 @@ This paper explores why simpler machine learning models often perform as well as
 - Cross-validation
 
 
+---
+
 **Title:** Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images
 
 **Authors:** Krishnakant Singh, Thanush Navaratnam, Jannik Holmer, Simone Schaub-Meyer, Stefan Roth
@@ -1550,6 +1620,8 @@ This paper evaluates the effectiveness and robustness of machine learning models
 - Calibration
 
 
+
+---
 
 **Title:** On the Impact of Sample Size in Reconstructing Noisy Graph Signals: A Theoretical Characterisation
 
@@ -1596,6 +1668,8 @@ The paper provides a comprehensive theoretical characterization of how sample si
 - Bias-variance decomposition
 - Noise
 
+
+---
 
 **Title:** Sparse and Faithful Explanations Without Sparse Models
 
@@ -1645,6 +1719,8 @@ This paper introduces the Sparse Explanation Value (SEV) as a new measure of int
 
 
 
+---
+
 **Title:** MathScale: Scaling Instruction Tuning for Mathematical Reasoning
 
 **Authors:** Zhengyang Tang, Xingxing Zhang, Benyou Wang, Furu Wei
@@ -1678,6 +1754,8 @@ This paper presents a new method called MathScale, designed to improve how AI mo
 **Why It Matters:**
 This work is important because it helps make AI models better at solving math problems, which is a challenging area. By creating a large and diverse set of training problems, MathScale helps AI learn and understand math better, which can be useful in education and other fields where complex problem-solving is needed.
 
+
+---
 
 **Title:** Demystifying Multilayer Transformers via Joint Dynamics of MLP and Attention (JoMA)
 
@@ -1724,6 +1802,8 @@ The JoMA framework offers a new perspective on the training dynamics of multilay
 - Model architectures
 
 
+---
+
 **Title:** Solving Olympiad Geometry Without Human Demonstrations
 
 **Authors:** Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He, et al.
@@ -1758,6 +1838,8 @@ This paper introduces AlphaGeometry, an AI system that solves advanced geometry 
 - Mathematical olympiads
 
 
+
+---
 
 **Title:** U-SPDNet: An SPD Manifold Learning-Based Neural Network for Visual Classification
 
@@ -1806,6 +1888,8 @@ U-SPDNet demonstrates that a carefully designed neural network architecture, whi
 - Multi-stage transformation
 
 
+---
+
 **Title:** Reconstructing Training Data from Model Gradient, Provably
 
 **Authors:** Zihan Wang, Jason D. Lee, Qi Lei
@@ -1850,6 +1934,8 @@ This paper addresses the privacy concerns in federated learning by demonstrating
 - Privacy attacks
 - Machine learning security
 
+
+---
 
 **Title:** Improved Active Multi-Task Representation Learning via Lasso
 
@@ -1900,6 +1986,8 @@ The L1-regularized relevance-based strategy for A-MTRL provides a significant im
 - Computer vision
 
 
+---
+
 **Title:** Stabilizing Machine Learning Prediction of Dynamics: Novel Noise-Inspired Regularization Tested with Reservoir Computing
 
 **Authors:** Alexander Wikner, Joseph Harvey, Michelle Girvan, Brian R. Hunt, Andrew Pomerance, Thomas Antonsen, Edward Ott
@@ -1946,6 +2034,8 @@ This paper addresses the challenge of stabilizing machine learning (ML) models u
 - Hyperparameter tuning
 
 
+---
+
 **Title:** Over-Parameterization Exponentially Slows Down Gradient Descent for Learning a Single Neuron
 
 **Authors:** Weihang Xu, Simon S. Du
@@ -1991,6 +2081,8 @@ This paper explores the impact of over-parameterization on the convergence rate 
 - Global convergence
 - Training dynamics
 
+
+---
 
 **Title:** Infinite-Dimensional Feature Interaction
 
@@ -2043,6 +2135,8 @@ This paper presents a novel approach to neural network design that focuses on ex
 - Computational efficiency
 
 
+---
+
 **Title:** How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks
 
 **Authors:** Keyulu Xu, Mozhi Zhang, Jingling Li, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka
@@ -2082,6 +2176,8 @@ This paper explores the extrapolation abilities of neural networks, specifically
 - Non-linear functions
 
 
+
+---
 
 **Title:** Controlling Costs: Feature Selection on a Budget
 
@@ -2128,6 +2224,8 @@ This paper introduces a method for selecting features in predictive models while
 - Biomedical applications
 - Statistical methods
 
+
+---
 
 **Title:** In Defense of the Indefensible: A Very Naïve Approach to High-Dimensional Inference
 
