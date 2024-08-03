@@ -1,4 +1,5 @@
 materials/*.pptx
+materials/desktop.ini
 weekly-projects/week2/prevalence.tsv
 weekly-projects/week2/symptoms.tsv
 weekly-projects/week3/Homework 3_complete.ipynb
@@ -8,3 +9,7 @@ materials/desktop.ini
 weekly-projects/week3/.ipynb_checkpoints/Homework 3-checkpoint.ipynb
 weekly-projects/week3/.ipynb_checkpoints/Homework 3-checkpoint.ipynb
 weekly-projects/week2/.DS_Store
+weekly-projects/*/Homework*complete.ipynb
+weekly-projects/*/Homework*solved.ipynb
+weekly-projects/*/.ipynb_checkpoints/*.ipynb
+weekly-projects/week6/example-cifar (1).ipynb
